@@ -3,7 +3,7 @@
 UT Bootcamp Module 17 Challenge
 
 ## Project Overview
-Create a machine learning model abd analysis using different sampling techniques and the imbalanced-learn and scikit-learn libraries on the credit risk dataset from LendingClub by:
+Create a machine learning model and analysis using different sampling techniques and the imbalanced-learn and scikit-learn libraries on the credit risk dataset from LendingClub by:
 1. Oversampling the data using the RandomOverSampler and SMOTE algorithms
 2. Undersampling the data using the ClusterCentroids algorithm
 3. Oversampling and undersampling the data using the SMOTEEN algorithm
@@ -21,36 +21,44 @@ Software utilized for this study included:
 - Personal GitHub account
 
 ## Analysis and Workflow
-The general process in running the models is to :
+The general workflow in running the models are to :
 1. Read and clean the data
 2. Split the data into training and testing
-3. Sample the data according to the method
-4. Run the confusion matrix and show results
+3. Resample the data according to the algorithm method (SMOTE, Naive Random, Undersampling, etc.)
+4. Run the confusion matrix and show statistical results
 
 ### Deliverable 1: Resampling Models to Predict Credit Risk
 
+Specifically for this deliverable we did the following:
+1. Create the training variables by converting the string values into numerical ones using the get_dummies() method.
+2. Create the target variables.
+3. Check the balance of the target variables.
+4. Use the LogisticRegression classifier to make predictions and evaluate the model’s performance.
+5. Calculate the accuracy score of the model.
+6. Generate a confusion matrix.
+7. Print out the imbalanced classification report (see below).
+
+Naive Random Oversampling:
+
 ![alt text](https://github.com/austin020269/MechaCar_Staistical_Analysis/blob/main/Deli_1_Image.PNG)
 
-### Deliverable 2: Summary Statistics on Suspension Coils
-1. Download the Suspension_Coil.csv file, and place it in the active directory for your R session.
-2. In your MechaCarChallenge.RScript, import and read in the Suspension_Coil.csv file as a table.
-3. Write an RScript that creates a total_summary dataframe using the summarize() function to get the mean, median, variance, and standard deviation of the suspension coil’s PSI column.
-4. Write an RScript that creates a lot_summary dataframe using the group_by() and the summarize() functions to group each manufacturing lot by the mean, median, variance, and standard deviation of the suspension coil’s PSI column.
+SMOTE Oversampling:
+
+![alt text](https://github.com/austin020269/MechaCar_Staistical_Analysis/blob/main/Deli_1_Image.PNG)
+
+Undersampling:
+
+![alt text](https://github.com/austin020269/MechaCar_Staistical_Analysis/blob/main/Deli_1_Image.PNG)
+
+Combination (Over and Under) Sampling:
+
+![alt text](https://github.com/austin020269/MechaCar_Staistical_Analysis/blob/main/Deli_1_Image.PNG)
+
+### Deliverable 2: Use the SMOTEEN algorithm to Predict Credit Risk
 
 ![alt text](https://github.com/austin020269/MechaCar_Staistical_Analysis/blob/main/Deli_2_Image_1.PNG)
 
-total_summary dataframe:
-
-![alt text](https://github.com/austin020269/MechaCar_Staistical_Analysis/blob/main/Deli_2_Image_2.PNG)
-
-lot_summary dataframe:
-
-![alt text](https://github.com/austin020269/MechaCar_Staistical_Analysis/blob/main/Deli_2_Image_3.PNG)
-
-## Summary Statistics on Suspension Coils (Analysis)
-Whether or not the lots meet the design specifications can be answered by looking at the variance as a total and individually and can be seen in both dataframes.  As a whole, the total_summry table shows that they do with the variance of 76, which is within our tolerance of < 100.  Individually, Lots 1 and 2 meet this requirement, however Lot 3 does not.  
-
-### Deliverable 3: T-tests on Suspension Coils
+### Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 1. In your MechaCarChallenge.RScript, write an RScript using the t.test() function to determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch.
 2. Next, write three more RScripts in your MechaCarChallenge.RScript using the t.test() function and its subset() argument to determine if the PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch.
 

@@ -102,7 +102,7 @@ Whether a model can predict if a loan is high risk or not would be determined by
 3. SMOTE Oversampling (70%)
 
 Additionally, another import feature of our models is it's accuracy, reflecting it's dependability in refernce to the true or accepted value.  The top three for this statistic are:
-1.
-2.
-3.
+1. Easy Ensemble Classifying (92.3%)
+2. SMOTEEN Sampling (68.1%)
+3. Naive Random Oversampling (67.2%)
 

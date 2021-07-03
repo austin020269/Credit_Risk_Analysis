@@ -11,10 +11,14 @@ Create a machine learning model abd analysis using different sampling techniques
 5. Evaluate the performance of the models and their effieciency in predicting risk 
 
 ## Resources
-Data provided for the project included the miles per gallon .csv (MechaCar_mpg.csv) and the suspension coil .csv (Suspension_Coil.csv) and then we ran statictics and reported the findings using the following applications:
-- R (version 4.1.0)
-- RStudio (version 1.4.1717)
-- Personal Github account
+Data Sources provided to analyze and minipulate included:
+- LoanStats_2019Q1.csv data file
+
+Software utilized for this study included: 
+- Python 3.7.6 
+- Conda 4.9.2 
+- Jupyter Notebook 6.1.4
+- Personal GitHub account
 
 ## Analysis and Workflow 
 ### Deliverable 1: Linear Regression to Predict MPG (Six variables used - vehicle length, vehicle weight, spoiler angle, ground clearance, AWD and mpg) 

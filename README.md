@@ -96,5 +96,13 @@ Easy Ensemble Classifier:
 ![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli3_2.PNG)
 
 ### Deliverable 4: Written Report on the Credit Risk Analysis
-Whether a model can predict if a loan is high risk or not would be determined by the value of it's high risk recall rate.  The higher the rate, the fewer high risk loans that are approved.  
-Additionally, another import feature of our models is it's accuracy which reflects it's dependability in refernce to the true or accepted value.
+Whether a model can predict if a loan is high risk or not would be determined by the value of it's high risk recall rate.  The higher the rate, the fewer high risk loans that are approved.  Our top three performing models for this statistic are :
+1. Easy Ensamble Classifying (91%)
+2. SMOTEEN Sampling (76%)
+3. SMOTE Oversampling (70%)
+
+Additionally, another import feature of our models is it's accuracy, reflecting it's dependability in refernce to the true or accepted value.  The top three for this statistic are:
+1.
+2.
+3.
+

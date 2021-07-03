@@ -21,7 +21,7 @@ Software utilized for this study included:
 - Personal GitHub account
 
 ## Analysis and Workflow
-The general workflow in running the models are to :
+The general workflow in running these models are to :
 1. Read and clean the data
 2. Split the data into training and testing
 3. Resample the data according to the algorithm method (SMOTE, Naive Random, Undersampling, etc.)

@@ -70,7 +70,7 @@ Undersampling:
 - Recall Low Risk: 44%
 
 
-### Deliverable 2: Use the SMOTEEN algorithm to Predict Credit Risk
+### Deliverable 2: Use the SMOTEENN algorithm to Predict Credit Risk
 
 Specifically for this deliverable we did the following:
 1. Use the credit_risk_resampling.ipynb file to create your training and target variables.
@@ -130,11 +130,11 @@ Easy Ensemble Classifier:
 ### Deliverable 4: Written Report on the Credit Risk Analysis
 Whether a model can predict if a loan is high risk or not would be determined by the value of it's high risk recall rate.  The higher the rate, the fewer high risk loans that are approved.  Our top three performing models for this statistic are :
 1. Easy Ensamble Classifying (91%)
-2. SMOTEEN Sampling (76%)
+2. SMOTEENN Sampling (76%)
 3. SMOTE Oversampling (70%)
 
-Additionally, another import feature of our models is it's accuracy, reflecting it's dependability in refernce to the true or accepted value.  The top three for this statistic are:
+Additionally, another import feature of our models is it's accuracy, reflecting it's dependability in reference to the true or accepted value.  The top three for this statistic are:
 1. Easy Ensemble Classifying (92.3%)
-2. SMOTEEN Sampling (68.1%)
+2. SMOTEENN Sampling (68.1%)
 3. Naive Random Oversampling (67.2%)
 

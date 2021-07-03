@@ -77,8 +77,20 @@ Specifically for this deliverable we did the following:
 4. Resample the training data using the BalancedRandomForestClassifier algorithm with 100 estimators.
 5. Calculate the accuracy score of the model
 6. Generate a confusion matrix
-7. Print out the imbalanced classification report.
-8. Print the feature importance sorted in descending order (from most to least important feature), along with the feature score.
-9. Resample the training data using the EasyEnsembleClassifier algorithm with 100 estimators.
-10. Calculate the accuracy score of the model, generate a confusion matrix, and then print out the imbalanced classification report.
+7. Print out the imbalanced classification report (see below).
 
+Balanced Random Forest Classifier:
+![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli3_1a.PNG)
+
+![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli3_1.PNG)
+
+9. Print the feature importance sorted in descending order (from most to least important feature), along with the feature score.
+10. Resample the training data using the EasyEnsembleClassifier algorithm with 100 estimators.
+11. Calculate the accuracy score of the model
+12. Generate a confusion matrix
+13. Print out the imbalanced classification report (see below).
+
+Easy Ensemble Classifier:
+![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli3_2a.PNG)
+
+![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli3_2.PNG)

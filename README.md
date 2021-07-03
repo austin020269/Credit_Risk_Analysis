@@ -54,7 +54,7 @@ Undersampling:
 
 SMOTEEN - Combination (Over and Under) Sampling:
 
-![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli1_4.PNG)
+![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli2_1.PNG)
 
 
 ### Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk

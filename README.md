@@ -94,3 +94,5 @@ Easy Ensemble Classifier:
 ![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli3_2a.PNG)
 
 ![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli3_2.PNG)
+
+### Deliverable 4: Written Report on the Credit Risk Analysis

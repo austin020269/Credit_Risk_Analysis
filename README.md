@@ -40,19 +40,19 @@ Specifically for this deliverable we did the following:
 
 Naive Random Oversampling:
 
-![alt text](https://github.com/austin020269/MechaCar_Staistical_Analysis/blob/main/Deli_1_Image.PNG)
+![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli1_1.PNG)
 
 SMOTE Oversampling:
 
-![alt text](https://github.com/austin020269/MechaCar_Staistical_Analysis/blob/main/Deli_1_Image.PNG)
+![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli1_2.PNG)
 
 Undersampling:
 
-![alt text](https://github.com/austin020269/MechaCar_Staistical_Analysis/blob/main/Deli_1_Image.PNG)
+![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli1_3.PNG)
 
 Combination (Over and Under) Sampling:
 
-![alt text](https://github.com/austin020269/MechaCar_Staistical_Analysis/blob/main/Deli_1_Image.PNG)
+![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli1_4.PNG)
 
 ### Deliverable 2: Use the SMOTEEN algorithm to Predict Credit Risk
 

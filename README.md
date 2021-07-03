@@ -42,16 +42,33 @@ Naive Random Oversampling:
 ![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli1_1a.PNG)
 
 ![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli1_1.PNG)
+- Accuracy Score:
+- Precision High Risk:
+- Precision Low Risk:
+- Recall High Risk:
+- Recall Low Risk:
 
 SMOTE Oversampling:
 ![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli1_2a.PNG)
 
 ![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli1_2.PNG)
+- Accuracy Score:
+- Precision High Risk:
+- Precision Low Risk:
+- Recall High Risk:
+- Recall Low Risk:
+
 
 Undersampling:
 ![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli1_3a.PNG)
 
 ![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli1_3.PNG)
+- Accuracy Score:
+- Precision High Risk:
+- Precision Low Risk:
+- Recall High Risk:
+- Recall Low Risk:
+
 
 ### Deliverable 2: Use the SMOTEEN algorithm to Predict Credit Risk
 
@@ -67,6 +84,11 @@ SMOTEEN - Combination (Over and Under) Sampling:
 ![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli2_1a.PNG)
 
 ![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli2_1.PNG)
+- Accuracy Score:
+- Precision High Risk:
+- Precision Low Risk:
+- Recall High Risk:
+- Recall Low Risk:
 
 
 ### Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
@@ -83,6 +105,11 @@ Balanced Random Forest Classifier:
 ![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli3_1a.PNG)
 
 ![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli3_1.PNG)
+- Accuracy Score:
+- Precision High Risk:
+- Precision Low Risk:
+- Recall High Risk:
+- Recall Low Risk:
 
 9. Print the feature importance sorted in descending order (from most to least important feature), along with the feature score.
 10. Resample the training data using the EasyEnsembleClassifier algorithm with 100 estimators.
@@ -94,6 +121,11 @@ Easy Ensemble Classifier:
 ![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli3_2a.PNG)
 
 ![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli3_2.PNG)
+- Accuracy Score:
+- Precision High Risk:
+- Precision Low Risk:
+- Recall High Risk:
+- Recall Low Risk:
 
 ### Deliverable 4: Written Report on the Credit Risk Analysis
 Whether a model can predict if a loan is high risk or not would be determined by the value of it's high risk recall rate.  The higher the rate, the fewer high risk loans that are approved.  Our top three performing models for this statistic are :

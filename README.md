@@ -52,38 +52,17 @@ Undersampling:
 
 ### Deliverable 2: Use the SMOTEEN algorithm to Predict Credit Risk
 
+Specifically for this deliverable we did the following:
+1. Use the credit_risk_resampling.ipynb file to create your training and target variables.
+2. Resample the training data using the SMOTEENN algorithm.
+3. Use the LogisticRegression classifier to make predictions and evaluate the model’s performance.
+4. Calculate the accuracy score of the model.
+6. Generate a confusion matrix.
+7. Print out the imbalanced classification report (see below).
+
 SMOTEEN - Combination (Over and Under) Sampling:
 
 ![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli2_1.PNG)
 
 
 ### Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
-1. In your MechaCarChallenge.RScript, write an RScript using the t.test() function to determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch.
-2. Next, write three more RScripts in your MechaCarChallenge.RScript using the t.test() function and its subset() argument to determine if the PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch.
-
-![alt text](https://github.com/austin020269/MechaCar_Staistical_Analysis/blob/main/Deli_3_Image_1.PNG)
-
-All manufacturing lots (all cars):
-
-![alt text](https://github.com/austin020269/MechaCar_Staistical_Analysis/blob/main/Deli_3_Image_2.PNG)
-
-Test 1 (Lot 1):
-
-![alt text](https://github.com/austin020269/MechaCar_Staistical_Analysis/blob/main/Deli_3_Image_3.PNG)
-
-Test 2 (Lot 2):
-
-![alt text](https://github.com/austin020269/MechaCar_Staistical_Analysis/blob/main/Deli_3_Image_4.PNG)
-
-Test 3 (Lot 3):
-
-![alt text](https://github.com/austin020269/MechaCar_Staistical_Analysis/blob/main/Deli_3_Image_5.PNG)
-
-
-
-### Deliverable 4: Study Design: MechaCar vs Competition (Analysis)
-For this deliverable we are asked to provide answers to the following questions:
-- What metric or metrics are you going to test? City and Highway fuel economy.
-- What is the null hypothesis or alternative hypothesis? The null is that they all have the same fuel economy vs the alternative is that they are different.
-- What statistical test would you use to test the hypothesis? And why? An ANOVA test because it is a good way of testing the significance of the experimental results.
-- What data is needed to run the statistical test? At least a population of 50-100 cars to get a good respresentation of all cars.

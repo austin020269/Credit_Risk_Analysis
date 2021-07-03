@@ -12,7 +12,7 @@ Create a machine learning model abd analysis using different sampling techniques
 
 ## Resources
 Data Sources provided to analyze and minipulate included:
-- LoanStats_2019Q1.csv data file
+- LoanStats_2019Q1.csv
 
 Software utilized for this study included: 
 - Python 3.7.6 

@@ -75,9 +75,10 @@ Specifically for this deliverable we did the following:
 2. Create the target variables.
 3. Check the balance of the target variables.
 4. Resample the training data using the BalancedRandomForestClassifier algorithm with 100 estimators.
-5. After the data is resampled, calculate the accuracy score of the model, generate a confusion matrix, and then print out the imbalanced classification report.
-6. Print the feature importance sorted in descending order (from most to least important feature), along with the feature score.
-7. Resample the training data using the EasyEnsembleClassifier algorithm with 100 estimators.
-8. Calculate the accuracy score of the model, generate a confusion matrix, and then print out the imbalanced classification report.
+5. Calculate the accuracy score of the model
+6. Generate a confusion matrix
+7. Print out the imbalanced classification report.
+8. Print the feature importance sorted in descending order (from most to least important feature), along with the feature score.
+9. Resample the training data using the EasyEnsembleClassifier algorithm with 100 estimators.
+10. Calculate the accuracy score of the model, generate a confusion matrix, and then print out the imbalanced classification report.
 
-Print out the imbalanced classification report (see below).

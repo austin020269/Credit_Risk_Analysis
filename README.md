@@ -50,13 +50,12 @@ Undersampling:
 
 ![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli1_3.PNG)
 
-Combination (Over and Under) Sampling:
+### Deliverable 2: Use the SMOTEEN algorithm to Predict Credit Risk
+
+SMOTEEN - Combination (Over and Under) Sampling:
 
 ![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli1_4.PNG)
 
-### Deliverable 2: Use the SMOTEEN algorithm to Predict Credit Risk
-
-![alt text](https://github.com/austin020269/MechaCar_Staistical_Analysis/blob/main/Deli_2_Image_1.PNG)
 
 ### Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 1. In your MechaCarChallenge.RScript, write an RScript using the t.test() function to determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch.

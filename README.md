@@ -39,14 +39,17 @@ Specifically for this deliverable we did the following:
 7. Print out the imbalanced classification report (see below).
 
 Naive Random Oversampling:
+![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli1_1a.PNG)
 
 ![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli1_1.PNG)
 
 SMOTE Oversampling:
+![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli1_2a.PNG)
 
 ![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli1_2.PNG)
 
 Undersampling:
+![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli1_3a.PNG)
 
 ![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli1_3.PNG)
 
@@ -61,6 +64,7 @@ Specifically for this deliverable we did the following:
 7. Print out the imbalanced classification report (see below).
 
 SMOTEEN - Combination (Over and Under) Sampling:
+![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli2_1a.PNG)
 
 ![alt text](https://github.com/austin020269/Credit_Risk_Analysis/blob/main/Deli2_1.PNG)
 

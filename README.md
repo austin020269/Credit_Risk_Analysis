@@ -70,3 +70,14 @@ SMOTEEN - Combination (Over and Under) Sampling:
 
 
 ### Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
+Specifically for this deliverable we did the following:
+1. Create the training variables by converting the string values into numerical ones using the get_dummies() method.
+2. Create the target variables.
+3. Check the balance of the target variables.
+4. Resample the training data using the BalancedRandomForestClassifier algorithm with 100 estimators.
+5. After the data is resampled, calculate the accuracy score of the model, generate a confusion matrix, and then print out the imbalanced classification report.
+6. Print the feature importance sorted in descending order (from most to least important feature), along with the feature score.
+7. Resample the training data using the EasyEnsembleClassifier algorithm with 100 estimators.
+8. Calculate the accuracy score of the model, generate a confusion matrix, and then print out the imbalanced classification report.
+
+Print out the imbalanced classification report (see below).

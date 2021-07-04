@@ -20,7 +20,7 @@ Software utilized for this study included:
 - Jupyter Notebook 6.1.4
 - Personal GitHub account
 
-## Analysis and Workflow
+## Analysis/Workflow/Results
 The general workflow in running these models are to :
 1. Read and clean the data
 2. Split the data into training and testing

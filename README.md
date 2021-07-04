@@ -129,7 +129,7 @@ Easy Ensemble Classifier:
 
 ### Deliverable 4: Written Report on the Credit Risk Analysis
 Whether a model can predict if a loan is high risk or not would be determined by the value of it's high risk recall rate.  The higher the rate, the fewer high risk loans that are approved.  Our top three performing models for this statistic are :
-1. Easy Ensamble Classifying (91%)
+1. Easy Ensemble Classifying (91%)
 2. SMOTEENN Sampling (76%)
 3. SMOTE Oversampling (70%)
 
